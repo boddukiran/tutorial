@@ -1,0 +1,4 @@
+Git Tutorial :
+
+git init - to initialize the git
+git clone "remote repository url" - clone the remote repository
