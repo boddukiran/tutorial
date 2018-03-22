@@ -1,4 +1,5 @@
 I am file created at Git hub
-this linke added at git hub hello
-tff his line added in local host hello
-this jkk line added in local host hello
+Before commit any code 
+First pull if see any differences in files then commit or stash you changes
+if commit your changes then pull the code again to get the conflict changes and to commit again.
+instead of doing that stash your code and pull the code if conflict occurs do the confict resolve and commit.  It is one go commit.
